@@ -1,4 +1,4 @@
-🐝 Annahal Shop
+#🐝 Annahal Shop
 A honey-flavored e-commerce UI built with Next.js (App Router), Tailwind, MUI, and Zustand.
 Browse products, open details, add to cart/favorites, and glide through sections with smooth scrolling.
 

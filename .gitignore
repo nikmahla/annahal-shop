@@ -1,0 +1,14 @@
+node_modules/
+.next/
+dist/
+out/
+.vercel/
+.env*
+*.log
+node_modules/
+.next/
+dist/
+out/
+.vercel/
+.env*
+*.log

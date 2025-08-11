@@ -5,7 +5,7 @@ This project showcases product listings, cart functionality, API integration, an
 
 ## 🔗 Live Demo
 
-👉 [https://shopping-rqlg.vercel.app/](https://shopping-rqlg.vercel.app/)
+👉 [https://shopping-rqlg.vercel.app/](https://annahal-shop.vercel.app/)
 
 ---
 

@@ -1,7 +1,6 @@
-# 🛒 Shopping Cart Web App
-
-A modern, fully responsive shopping website built with **React** and **Next.js**.  
-This project showcases product listings, cart functionality, API integration, and dynamic UI animations.
+🐝 Annahal Shop
+A honey-flavored e-commerce UI built with Next.js (App Router), Tailwind, MUI, and Zustand.
+Browse products, open details, add to cart/favorites, and glide through sections with smooth scrolling.
 
 ## 🔗 Live Demo
 
@@ -22,28 +21,32 @@ This project showcases product listings, cart functionality, API integration, an
 
 - **Frontend:** React, Next.js
 - **State Management:** Zustand
-- **Styling:** CSS3, MUI (Material UI), Animations
+- **Styling:**  MUI (Material UI), Animations
 - **Storage:** LocalStorage
 - **API:** Custom product API
-- **Other:** Responsive Design, Google Fonts (`next/font`), Vercel deployment
+- **Other:** Responsive Design, Vercel deployment
 
 ---
 
 ## 👩‍💻 Developed by
 
 **Fatemeh Nikookar**  
-Created – **September 2024**  
+Created – **August 2025**  
 Role – **Frontend Developer**
 
 ---
 
-## 🚀 Getting Started (Local Setup)
-
-To run this project locally:
-
-```bash
-# Install dependencies
+⚡ Quick start
+bash
+Copy
+Edit
+# install deps
 npm install
 
-# Start the development server
+# run dev server
 npm run dev
+# http://localhost:3000
+
+# build & run production
+npm run build
+npm start

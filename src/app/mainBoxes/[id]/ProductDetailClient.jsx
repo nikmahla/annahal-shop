@@ -11,8 +11,8 @@ import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import useStore from '@/app/store';
 import { useRouter } from 'next/navigation';
-import Basket from '../../components/Basket/page';
-import Favorites from '../../components/favoriteItem/page';
+import Basket from '../../components/basket/page';
+import FavoriteItem from '../../components/favoriteItem/page';
 
 
 export default function ProductDetailClient({ product }) {

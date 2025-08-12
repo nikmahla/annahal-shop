@@ -3,7 +3,7 @@ import { Box, Grid, Skeleton, Stack } from '@mui/material';
 
 export default function Loading() {
   return (
-    <Box sx={{ maxWidth: 1200, mx: 'auto', px: { xs: 2, md: 3 }, py: 4 }}>
+    <Box sx={{ maxWidth: 1200, mx: 'auto', px: { xs: 2, md: 3 },mt:12, py: 4 }}>
       <Stack direction="row" justifyContent="space-between" sx={{ mb: 3 }}>
         <Skeleton variant="rectangular" width={100} height={36} />
         <Skeleton variant="rectangular" width={80} height={28} />

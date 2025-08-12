@@ -49,7 +49,7 @@ export default function ProductDetailClient({ product }) {
 
   return (
     <>
-      <Box sx={{ maxWidth: 1200, mx: "auto", px: { xs: 2, md: 3 }, py: { xs: 3, md: 6 } }}>
+      <Box sx={{ maxWidth: 1200, mx: "auto", px: { xs: 2, md: 3 }, py: { xs: 3, md: 6 } ,mt:8}}>
         <Grid container spacing={4} alignItems="flex-start">
           <Grid item xs={12} md={6}>
             <Box

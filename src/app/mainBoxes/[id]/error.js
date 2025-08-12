@@ -4,7 +4,7 @@ import { Box, Button, Typography } from '@mui/material';
 
 export default function Error({ error, reset }) {
   return (
-    <Box sx={{ maxWidth: 800, mx: 'auto', p: 4, textAlign: 'center' }}>
+    <Box sx={{ maxWidth: 800, mx: 'auto', p: 4,mt:12, textAlign: 'center' }}>
       <Typography variant="h5" sx={{ mb: 1, color: '#b83806', fontWeight: 700 }}>
         Oops — something went wrong
       </Typography>

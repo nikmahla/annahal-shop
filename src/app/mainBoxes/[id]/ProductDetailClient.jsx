@@ -130,7 +130,7 @@ export default function ProductDetailClient({ product }) {
 
 
                             <Button
-                                onClick={handleAddToCart}
+                                onClick={handleToggleFav}
                                 startIcon={
                                     isFav
                                         ? <FavoriteIcon sx={{ color: '#b83806' }} />
@@ -179,7 +179,7 @@ export default function ProductDetailClient({ product }) {
                 onClose={() => setIsBasketOpen(false)}
             />
 
-            <Favorites isOpen={isFavOpen} onClose={() => setIsFavOpen(false)} />
+          <FavoriteItem isOpen={isFavOpen} onClose={() => setIsFavOpen(false)} />
         </Box>
     );
 }

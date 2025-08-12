@@ -1,6 +1,5 @@
 ## 🐝 Annahal Shop
-A honey-flavored e-commerce UI built with Next.js (App Router), Tailwind, MUI, and Zustand.
-Browse products, open details, add to cart/favorites, and glide through sections with smooth scrolling.
+A honey-flavored e-commerce UI built with Next.js (App Router), Tailwind, MUI, and Zustand. Browse and search products, open details, add to cart/favorites, and glide through sections with smooth scrolling.
 
 ## 🔗 Live Demo
 
@@ -37,13 +36,4 @@ Role – **Frontend Developer**
 ---
 
 ## ⚡ Quick start
-# install deps
-npm install
 
-# run dev server
-npm run dev
-# http://localhost:3000
-
-# build & run production
-npm run build
-npm start

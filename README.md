@@ -35,5 +35,14 @@ Role – **Frontend Developer**
 
 ---
 
-## ⚡ Quick start
+## 🚀 Getting Started (Local Setup)
+
+To run the project locally:
+
+```bash
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
 

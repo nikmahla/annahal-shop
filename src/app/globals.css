@@ -50,3 +50,7 @@ html{
 *::-webkit-scrollbar-thumb:hover{
   background-color: color-mix(in srgb, var(--brand) 65%, black);
 }
+@keyframes move {
+    0% { transform: translateY(0) translateX(0); }
+    100% { transform: translateY(-10px) translateX(-15px); }
+}

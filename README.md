@@ -3,7 +3,7 @@ A honey-flavored e-commerce UI built with Next.js (App Router), Tailwind, MUI, a
 
 ## 🔗 Live Demo
 
-👉 [https://shopping-rqlg.vercel.app/](https://annahal-shop.vercel.app/)
+👉 [https://shopping-rqlg.vercel.app/](https://annahal-shop-bn2l.vercel.app/)
 
 ---
 

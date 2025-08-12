@@ -36,7 +36,7 @@ Role – **Frontend Developer**
 
 ---
 
-##⚡ Quick start
+## ⚡ Quick start
 # install deps
 npm install
 

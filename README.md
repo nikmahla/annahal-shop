@@ -9,10 +9,10 @@ A honey-flavored e-commerce UI built with Next.js (App Router), Tailwind, MUI, a
 
 ## 📸 Screenshots
 
-![Shopping Screenshot 1](https://github.com/user-attachments/assets/11a4ebe0-82a0-422e-b71a-be2c93c49d2c)  
-![Shopping Screenshot 2](https://github.com/user-attachments/assets/baba3092-9740-4a00-8b2c-39bb6bcf28b5)  
-![Shopping Screenshot 3](https://github.com/user-attachments/assets/f45f144a-10dc-4d6d-9ca0-b4828c1c5881)  
-![Shopping Screenshot 4](https://github.com/user-attachments/assets/c784c570-2886-485a-82f4-8cada5ca2a86)
+![Image](https://github.com/user-attachments/assets/b41a84ee-8c71-4a10-bd88-43294ede8616)
+![Image](https://github.com/user-attachments/assets/7e8d4d96-c623-4efd-91af-3001938b89a7)
+![Image](https://github.com/user-attachments/assets/0d0a6835-8574-4cb0-95e1-d6f925075bef)
+![Image](https://github.com/user-attachments/assets/58ad9f9e-21ef-4318-88ff-eec9cc3d626c)
 
 ---
 

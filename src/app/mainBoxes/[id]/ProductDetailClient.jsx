@@ -168,7 +168,7 @@ export default function ProductDetailClient({ product }) {
                         More Information
                     </Typography>
                     <Typography variant="body2" sx={{ whiteSpace: 'pre-line', color: '#5a3e32' }}>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                        Our honey is collected from local beekeepers and packed in small batches without added sugar or artificial ingredients. Store it in a cool, dry place with the lid closed. Natural crystallisation is normal: warm the jar gently in water to make it liquid again.
 
                     </Typography>
                 </Grid>

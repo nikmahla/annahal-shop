@@ -14,22 +14,22 @@ const ClientTestimonials = () => {
     const testimonials = [
         {
             id: 1,
-            name: "John Doe",
-            comment: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis, illum. Ullam inventore dicta ipsa hic accusamus sunt culpa, libero eius?",
+            name: "Daniel R.",
+            comment: "The sunflower honey is smooth and not too sweet. The jar arrived well packed and on time.",
             rating: 5,
             image: co1,
         },
         {
             id: 2,
-            name: "Jane Smith",
-            comment: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis, illum. Ullam inventore dicta ipsa hic accusamus sunt culpa, libero eius?",
+            name: "Sara M.",
+            comment: "Good flavour and fair price. I would like more jar sizes, but I will order again.",
             rating: 4,
             image: co2,
         },
         {
             id: 3,
-            name: "Bob Johnson",
-            comment: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis, illum. Ullam inventore dicta ipsa hic accusamus sunt culpa, libero eius?",
+            name: "Omar K.",
+            comment: "Thick, natural honey that tastes like the real thing. My family finished the jar in a week.",
             rating: 5,
             image: co3,
         },
@@ -60,7 +60,7 @@ const ClientTestimonials = () => {
                 </Typography>
             </Box>
             <Typography variant="body1" align="center" gutterBottom sx={{ fontSize: { xs: '.8rem', md: '.8rem' }, color: 'gray' }}>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, consectetur?
+                Sample reviews shown for demo purposes.
             </Typography>
 
 

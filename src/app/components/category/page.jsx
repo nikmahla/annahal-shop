@@ -41,15 +41,14 @@ const CategoryPage = () => {
                         marginBlock: '20px'
                     }}
                 >
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, eos fugit officiis error ipsum,
-                    dolor ducimus nam ratione nulla deleniti inventore blanditiis.
+                    Browse our honey by type: fresh from the hive, raw and unfiltered, or certified organic.
                 </Typography>
 
                 <Box sx={{ display: 'flex', flexDirection: 'column', gap: 4 }}>
                     {[
-                        { src: c1, alt: "Category 1", header: "Fresh Honey", body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
-                        { src: c2, alt: "Category 2", header: "Raw Honey", body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
-                        { src: c3, alt: "Category 3", header: "Organic Honey", body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." }
+                        { src: c1, alt: "Category 1", header: "Fresh Honey", body: "Harvested in small batches and jarred within days, with a light, floral flavour." },
+                        { src: c2, alt: "Category 2", header: "Raw Honey", body: "Unheated and unfiltered, so it keeps its natural pollen, enzymes and thick texture." },
+                        { src: c3, alt: "Category 3", header: "Organic Honey", body: "From hives placed in pesticide-free areas, for a clean and balanced taste." }
                     ].map((item, index) => (
                         <Box
                             key={index}

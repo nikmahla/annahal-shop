@@ -76,7 +76,7 @@ const page = () => {
                     <Typography variant='h2' sx={{ fontSize: { xs: '1.5rem', md: '3rem', color: '#30180d', fontWeight: '600', textTransform: 'capitalize', } }}>Fresh Sunflower</Typography>
                     <Typography variant='h5' sx={{ fontSize: { xs: '1.5rem', md: '3rem', color: '#b83806', fontWeight: '600', textTransform: 'capitalize', } }}>Orginal Honey Up</Typography>
                     <Typography variant='h5' sx={{ fontSize: { xs: '1.5rem', md: '3rem', color: '#30180d', fontWeight: '600', textTransform: 'capitalize',  } }}>To 58% Off.</Typography>
-                    <Typography variant='h5' sx={{ fontSize: { xs: '.8rem', md: '1rem', color: 'gray', } }}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor ducimus nam ratione nulla deleniti inventore blanditiis lorem inorci sed vestibulum tempus.</Typography>
+                    <Typography variant='h5' sx={{ fontSize: { xs: '.8rem', md: '1rem', color: 'gray', } }}>Pure sunflower honey, harvested in small batches. Limited stock while the offer lasts.</Typography>
                 </Box>
 
                 <Button
